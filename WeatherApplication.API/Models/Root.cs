@@ -1,5 +1,6 @@
 using Newtonsoft.Json;
 using System.Runtime.Serialization;
+using WeatherForcast.API.Models;
 
 namespace WeatherApplication.API.Models
 {

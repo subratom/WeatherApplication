@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
 using WeatherApplication.API.Models;
+using WeatherForcast.API.Models;
 
 
 namespace WeatherForcast.Tests
