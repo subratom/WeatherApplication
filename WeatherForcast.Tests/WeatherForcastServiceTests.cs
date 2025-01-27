@@ -71,7 +71,6 @@ namespace WeatherForcast.Tests
                     SeaLevel = 30,
                     GrndLevel = 30
                 },
-
             };
 
 
