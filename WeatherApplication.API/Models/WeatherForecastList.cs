@@ -3,7 +3,6 @@ using System.Runtime.Serialization;
 
 namespace WeatherApplication.API.Models
 {
-
     public class Clouds
     {
         public int All { get; set; }
